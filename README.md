@@ -1,0 +1,2 @@
+# Predict-survival-on-the-Titanic-using-Logistic-Regression-SVM-MLP-Gradient-Boosting-Random-Forest
+this is an end-to-end project where I predicted survival on the Titanic useing Logistic regression, Support vector machine(SVM), Multilayer perceptron(MLP), Gradient boosting algorithm and Random forest.here I divided the dataset into three parts, train data(60%), test data(20%) and validation data(20%).I tuned the hyperparameters of all these five algorithms and compared the accuracy bases on recall score, acuracy score and latency.I found random forest as the best predictor 
